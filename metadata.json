@@ -1,0 +1,6 @@
+{
+  "name": "سوق المتاجر",
+  "description": "المنصة المتكاملة الرائدة لبيع وشراء وتقييم المتاجر الإلكترونية بدعم الذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
